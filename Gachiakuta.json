@@ -3,7 +3,7 @@
   "description": "The city, where the civilized class live, and the slum, where the descendants of criminals \"tribe folk\" gather, are the two sides of society separated by high walls, and below—the Abyss—a dumpsite where criminals are exiled, filled with aberrant beasts and unknown dangers feared even by the people of the slums. Orphaned boy Rudo lives in the slum with his foster parent Regto, making 2 ends meet through dumpster diving. Rudo shortly faces a tragedy that made him vow with fury to take vengeance against all of society who treated him wrong. In his journey, the truth about the world around him and the nature of his powers unravel as the story progresses, and he gets closure to his goal with the help of a vibrant cast of characters.",
   "artist": "KEI_URANA",
   "author": "KEI_URANA",
-  "cover": "https://cdn.discordapp.com/attachments/943186396628271114/1118535870170013696/Fykz_XlaMAAbNeU.png",
+  "cover": "https://cdn.discordapp.com/attachments/943186396628271114/1152941227352805446/IMG_5126.jpg",
   "chapters": {
     "65": {
       "title": "\"As A Byproduct\"",
@@ -43,6 +43,14 @@
       "last_updated": "1695185839",
       "groups": {
         "K-Manga": "/proxy/api/imgur/chapter/jJuD4P9"
+      }
+    },
+    "71": {
+      "title": "\"Evolution\"",
+      "volume": "9",
+      "last_updated": "1696409331",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/9B96O4R"
       }
     }
   }
