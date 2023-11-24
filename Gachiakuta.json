@@ -3,7 +3,7 @@
   "description": "The city, where the civilized class live, and the slum, where the descendants of criminals \"tribe folk\" gather, are the two sides of society separated by high walls, and below—the Abyss—a dumpsite where criminals are exiled, filled with aberrant beasts and unknown dangers feared even by the people of the slums. Orphaned boy Rudo lives in the slum with his foster parent Regto, making 2 ends meet through dumpster diving. Rudo shortly faces a tragedy that made him vow with fury to take vengeance against all of society who treated him wrong. In his journey, the truth about the world around him and the nature of his powers unravel as the story progresses, and he gets closure to his goal with the help of a vibrant cast of characters.",
   "artist": "KEI_URANA",
   "author": "KEI_URANA",
-  "cover": "https://cdn.discordapp.com/attachments/943186396628271114/1152941227352805446/IMG_5126.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/943186396628271114/1176545144208642058/F_dltffbcAAFeP9.png",
   "chapters": {
     "65": {
       "title": "\"As A Byproduct\"",
@@ -59,6 +59,38 @@
       "last_updated": "1697008166",
       "groups": {
         "K-Manga": "/proxy/api/imgur/chapter/pi6KT1P"
+      }
+    },
+    "73": {
+      "title": "Race Against Time",
+      "volume": "9",
+      "last_updated": "1700845758",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/l3FbdDI"
+      }
+    },
+    "74": {
+      "title": "Power Up",
+      "volume": "9",
+      "last_updated": "1700845792",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/wMwAP8M"
+      }
+    },
+    "75": {
+      "title": "Loose Cannon",
+      "volume": "9",
+      "last_updated": "1700845837",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/F1RYxMe"
+      }
+    },
+    "76": {
+      "title": "Beast, Break Through",
+      "volume": "9",
+      "last_updated": "1700845873",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/mmrxBh1"
       }
     }
   }
