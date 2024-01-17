@@ -92,6 +92,38 @@
       "groups": {
         "K-Manga": "/proxy/api/imgur/chapter/mmrxBh1"
       }
+    },
+    "77": {
+      "title": "Accumulation of Feelings",
+      "volume": "9",
+      "last_updated": "1705495287",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/zi21dYU"
+      }
+    },
+    "78": {
+      "title": "The Woman Left Behind",
+      "volume": "9",
+      "last_updated": "1705495335",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/JVrtXkM"
+      }
+    },
+    "79": {
+      "title": "Loss and Big Entrance",
+      "volume": "9",
+      "last_updated": "1705495373",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/OQDivLA"
+      }
+    },
+    "80": {
+      "title": "The Power of Protection",
+      "volume": "9",
+      "last_updated": "1705495398",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/HeuFkd5"
+      }
     }
   }
 }
