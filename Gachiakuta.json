@@ -124,6 +124,22 @@
       "groups": {
         "K-Manga": "/proxy/api/imgur/chapter/HeuFkd5"
       }
+    },
+    "81": {
+      "title": "No Time to Rest",
+      "volume": "9",
+      "last_updated": "1705778658",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/uv44IgZ"
+      }
+    },
+    "82": {
+      "title": "Rest",
+      "volume": "9",
+      "last_updated": "1705778678",
+      "groups": {
+        "K-Manga": "/proxy/api/imgur/chapter/oJ1np1S"
+      }
     }
   }
 }
