@@ -6,11 +6,11 @@ author: userspring
 kind: dark
 contrast: low
 tags: gradient, purple, blue, two-tone
-fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/midnight-fairy.sable.css
+fullThemeUrl: https://raw.githubusercontent.com/GreenB0t/Gachiakuta/refs/heads/master/midnight-fairy.preview.sable.css
 */
 
 .sable-theme-preview {
-  --sable-bg-container: hsl(230, 25%, 20.4%);
+  --sable-bg-container: hsl(230, 65%, 30.4%);
   --sable-bg-on-container: hsl(345, 30%, 88%);
   --sable-surface-container: hsl(270, 35%, 33%);
   --sable-surface-container-line: hsl(270, 25%, 30.94%);
