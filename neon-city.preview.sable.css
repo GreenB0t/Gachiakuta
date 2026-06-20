@@ -10,7 +10,7 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/n
 */
 
 .sable-theme-preview {
-  --sable-bg-container: linear-gradient(to top, hsl(300, 100%, 8%) 20%, hsl(300, 100%, 2%) 40%);
+  --sable-bg-container: linear-gradient(to top, hsl(300, 100%, 8%), hsl(300, 100%, 2%));
   --sable-bg-on-container: hsla(270, 20.5%, 90%, 0.85);
   --sable-surface-container: hsla(300, 30%, 5%, 0.67);
   --sable-surface-container-line: hsla(270, 35%, 30.94%, 0.85);
