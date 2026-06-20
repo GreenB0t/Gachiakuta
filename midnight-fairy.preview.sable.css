@@ -10,7 +10,7 @@ fullThemeUrl: https://raw.githubusercontent.com/GreenB0t/Gachiakuta/refs/heads/m
 */
 
 .sable-theme-preview {
-  --sable-bg-container: radial-gradient(radial at right, hsl(250, 40%, 28%) 20%, hsl(210, 40%, 20%));
+  --sable-bg-container: radial-gradient(at right, hsl(250, 40%, 28%) 20%, hsl(210, 40%, 20%));
   --sable-bg-on-container: hsl(345, 30%, 88%);
   --sable-surface-container: hsl(270, 35%, 40%);
   --sable-surface-container-line: hsl(270, 25%, 30.94%);
