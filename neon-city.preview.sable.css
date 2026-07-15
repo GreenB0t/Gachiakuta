@@ -13,8 +13,8 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/m
   --sable-bg-container: hsl(0, 0%, 0%);
   --sable-bg-on-container: hsl(1, 0%, 100%);
   --sable-surface-container: hsl(0, 0%, 0%);
-  --sable-surface-container-line: hsl(1, 0%, 35%);
+  --sable-surface-container-line: hsl(1, 0%, 55%);
   --sable-surface-on-container: hsl(1, 0%, 100%);
-  --sable-primary-main: hsl(1, 0%, 8%);
-  --sable-primary-on-main: hsl(1, 0%, 100%);
+  --sable-primary-main: hsl(1, 0%, 100%);
+  --sable-primary-on-main: hsl(1, 0%, 0%);
 }
